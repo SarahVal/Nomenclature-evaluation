@@ -9,16 +9,6 @@
         "crops annual",
         "crops and annual"
     ],
-    "annual crops": [
-        "annual cocoa crop",
-        "annual food crop",
-        "annual cropping",
-        "cropping annual",
-        "crop plantations and annual",
-        "annual crop",
-        "crops annual",
-        "crops and annual"
-    ],
     "bare soil": [
         "bare exposed soil",
         "bare land soil",
@@ -31,21 +21,8 @@
         "area was burnt",
         "burned areas"
     ],
-    "burned areas": [
-        "burned area",
-        "areas that burned",
-        "area burned",
-        "area was burnt"
-    ],
     "citrus fruit": [
         "citrus fruits"
-    ],
-    "evergreen forest": [
-        "evergreen forests",
-        "forests mainly evergreen",
-        "evergreen the forest",
-        "forest and evergreen",
-        "forest evergreen"
     ],
     "evergreen forests": [
         "forests mainly evergreen",
@@ -65,21 +42,6 @@
         "crops mangos citrus fruits",
         "crops mangoes citrus fruits"
     ],
-    "fruit crops": [
-        "fruit tree crops",
-        "crops mangos citrus fruits",
-        "crops mangoes citrus fruits"
-    ],
-    "herbaceous savanna": [
-        "savanna 29 herbaceous",
-        "savanna herbaceous",
-        "herbaceous savannas",
-        "savanna parklands or herbaceous",
-        "savannas the savanna herbaceous",
-        "savanna and herbaceous",
-        "savanna ecosystems herbaceous",
-        "savanna 103 herbaceous"
-    ],
     "herbaceous vegetation": [
         "vegetative areas savanna herbaceous",
         "vegetative area herbaceous",
@@ -94,35 +56,16 @@
     "leaf vegetable": [
         "vegetation as leaves"
     ],
-    "leaf vegetables": [
-        "vegetation as leaves"
-    ],
     "leguminous crop": [
-        "leguminous cover crops"
-    ],
-    "leguminous crops": [
         "leguminous cover crops"
     ],
     "mineral soil": [
         "soils and mineral"
     ],
-    "mineral soils": [
-        "soils and mineral"
-    ],
     "mixed cereal": [
         "cereal seeds are mixed"
     ],
-    "mixed cereals": [
-        "cereal seeds are mixed"
-    ],
     "mixed tree": [
-        "mixed from tree",
-        "mixed to tree",
-        "mixed with tree",
-        "mix of tree"
-    ],
-    "mixed trees": [
-        "mixed tree",
         "mixed from tree",
         "mixed to tree",
         "mixed with tree",
@@ -138,9 +81,6 @@
     "other cereal": [
         "cereals and other"
     ],
-    "other cereals": [
-        "cereals and other"
-    ],
     "other crop": [
         "crops nearby but other",
         "crop damage than others",
@@ -154,22 +94,6 @@
         "crops the other",
         "crops fallows and other",
         "cropped by other",
-        "crops other",
-        "crops includes all other"
-    ],
-    "other crops": [
-        "crops nearby but other",
-        "crop damage than others",
-        "other cash crops",
-        "other cash crop",
-        "crop land to other",
-        "crop land and other",
-        "crops cereals and other",
-        "crop fixed effects other",
-        "crops the other",
-        "crops fallows and other",
-        "cropped by other",
-        "other crop",
         "crops other",
         "crops includes all other"
     ],
@@ -190,16 +114,6 @@
         "seasonal crops",
         "season cropping"
     ],
-    "seasonal crops": [
-        "seasonal metrics cropped",
-        "cropping season",
-        "season crop",
-        "crops and seasons",
-        "season of cropped",
-        "season shifting crops",
-        "season crops",
-        "season cropping"
-    ],
     "shrub land": [
         "land shrubs",
         "lands lowlands grasslands shrub",
@@ -210,43 +124,12 @@
         "lands with shrub",
         "shrubs per land"
     ],
-    "shrub lands": [
-        "land shrubs",
-        "lands lowlands grasslands shrub",
-        "land to shrub",
-        "land and shrubs",
-        "shrub land",
-        "land use maps shrub",
-        "lands with shrub",
-        "shrubs per land"
-    ],
-    "soya bean": [
-        "soya beans",
-        "beans soya",
-        "soya and beans"
-    ],
-    "soya beans": [
-        "beans soya",
-        "soya and beans"
-    ],
-    "sweet potatoes": [
-        "sweet potato"
-    ],
     "tiger bush": [
         "tiger bushes"
     ],
     "tuber crop": [
         "tuber crops",
         "crops 26 5 tubers"
-    ],
-    "tuber crops": [
-        "crops 26 5 tubers"
-    ],
-    "water bodies": [
-        "bodies and water",
-        "water body",
-        "bodies watb permanent water",
-        "water recycling body"
     ],
     "water body": [
         "bodies and water",
@@ -256,8 +139,5 @@
     ],
     "water melons": [
         "water melon"
-    ],
-    "young fallows": [
-        "young fallow"
     ]
 }
