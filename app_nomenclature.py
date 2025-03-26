@@ -21,7 +21,7 @@ def categorize_words():
 
     # Create checkboxes for each word
     st.subheader("Validation de l'expansion sémantique pour les mots-clés source suivants:")
-    st.markdown("A partir de la liste déroulante, sélectionner les variants versions au pluriel, synonymes) valides.", unsafe_allow_html=True)
+    st.markdown("A partir de la liste déroulante, sélectionner les variants (versions au pluriel, synonymes) valides.", unsafe_allow_html=True)
     # Create a multi-select for each category
     for cat in categories:
          st.markdown(f"<ul><li><h4><b>{cat}</b></h4>", unsafe_allow_html=True)
