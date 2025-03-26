@@ -24,7 +24,7 @@ def categorize_words():
 
     # Create a multi-select for each category
     for cat in categories:
-         st.markdown(f"<h4><b>{cat}</b></h4>", unsafe_allow_html=True)
+         st.markdown(f"<ul><li><h4><b>{cat}</b></h4>", unsafe_allow_html=True)
          selected_words = st.multiselect(
             "",
             preselected_words[cat],
