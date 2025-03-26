@@ -28,7 +28,7 @@ def categorize_words():
         selected_words = st.multiselect(
             f"Sélectionner/Désélectionner les synonymes pour: {cat}",
             preselected_words[cat],
-            default=categorized[cat],
+            default=[],
             key=cat
         )
         categorized[cat] = selected_words
