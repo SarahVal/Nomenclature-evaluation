@@ -1,19 +1,34 @@
 {
     "annual crop": [
         "annual cocoa crop",
+        "annual cropping",
         "annual crops",
         "annual food crop",
-        "annual cropping",
         "cropping annual",
         "crop plantations and annual",
         "crops annual",
         "crops and annual"
     ],
+    "artichoke": [
+        "artichokes"
+    ],
+    "aubergine": [
+        "aubergines"
+    ],
     "bare soil": [
         "bare exposed soil",
         "bare land soil",
-        "soil is bare",
-        "bare soils"
+        "bare soils",
+        "soil is bare"
+    ],
+    "bean": [
+        "beans"
+    ],
+    "build-up surface": [
+        "build-up surfaces"
+    ],
+    "bulbous vegetable": [
+        "bulbous vegetables"
     ],
     "burned area": [
         "areas that burned",
@@ -21,8 +36,20 @@
         "area was burnt",
         "burned areas"
     ],
+    "cabbage": [
+        "cabbages"
+    ],
+    "cauliflower": [
+        "cauliflowers"
+    ],
+    "cereal": [
+        "cereals"
+    ],
     "citrus fruit": [
         "citrus fruits"
+    ],
+    "city": [
+        "cities"
     ],
     "evergreen forests": [
         "forests mainly evergreen",
@@ -31,16 +58,53 @@
         "evergreen forest",
         "forest evergreen"
     ],
+    "evergreen mixed forest": [
+        "evergreen mixed forests"
+    ],
+    "fallow": [
+        "fallows"
+    ],
+    "fiber plant": [
+        "fiber plants"
+    ],
     "fodder crops": [
         "crop residues as fodder"
     ],
     "forage crops": [
         "crop forest and forage"
     ],
+    "forest": [
+        "forests"
+    ],
+    "fruit": [
+        "fruits"
+    ],
+    "fruit bearing vegetable": [
+        "fruit bearing vegetables"
+    ],
     "fruit crop": [
         "fruit tree crops",
         "crops mangos citrus fruits",
-        "crops mangoes citrus fruits"
+        "crops mangoes citrus fruits",
+        "fruit crops"
+    ],
+    "gourd": [
+        "gourds"
+    ],
+    "grain": [
+        "grains"
+    ],
+    "grass": [
+        "grasses"
+    ],
+    "grassland": [
+        "grasslands"
+    ],
+    "groundnut": [
+        "groundnuts"
+    ],
+    "herbaceous savannah": [
+        "herbaceous savanna"
     ],
     "herbaceous vegetation": [
         "vegetative areas savanna herbaceous",
@@ -54,22 +118,65 @@
         "rice saving of irrigation"
     ],
     "leaf vegetable": [
-        "vegetation as leaves"
+        "leaf vegetables",
+        "leafy vegetable",
+        "vegetation as leaves",
+        "leafy vegetables"
+    ],
+    "leek": [
+        "leeks"
+    ],
+    "legume": [
+        "legumes"
     ],
     "leguminous crop": [
+        "leguminous crops",
         "leguminous cover crops"
     ],
+    "ligneous crop": [
+        "ligneous crops"
+    ],
+    "mango": [
+        "mangoes"
+    ],
+    "market garden": [
+        "market gardens"
+    ],
+    "meadow": [
+        "meadows"
+    ],
+    "millet": [
+        "millets"
+    ],
     "mineral soil": [
-        "soils and mineral"
+        "soils and mineral",
+        "mineral soils"
     ],
     "mixed cereal": [
+        "mixed cereals",
         "cereal seeds are mixed"
     ],
     "mixed tree": [
         "mixed from tree",
+        "mixed trees",
         "mixed to tree",
         "mixed with tree",
         "mix of tree"
+    ],
+    "monkeynut": [
+        "monkeynuts"
+    ],
+    "muskmelon": [
+        "muskmelons"
+    ],
+    "niger seed": [
+        "niger seeds"
+    ],
+    "nut": [
+        "nuts"
+    ],
+    "oat": [
+        "oats"
     ],
     "oil crops": [
         "crops bananas and oil",
@@ -78,14 +185,27 @@
         "crops such as oil",
         "oil palm cropping"
     ],
+    "oilseed": [
+        "oilseeds"
+    ],
+    "oilseed crop": [
+        "oilseed crops"
+    ],
+    "onion": [
+        "onions"
+    ],
+    "orchard crop": [
+        "orchard crops"
+    ],
     "other cereal": [
-        "cereals and other"
+        "cereals and other",
+        "other cereals"
     ],
     "other crop": [
         "crops nearby but other",
+        "other cash crop",
         "crop damage than others",
         "other cash crops",
-        "other cash crop",
         "crop land to other",
         "crop land and other",
         "crops cereals and other",
@@ -97,11 +217,66 @@
         "crops other",
         "crops includes all other"
     ],
+    "paddy field": [
+        "paddy fields"
+    ],
+    "papaya": [
+        "papayas"
+    ],
+    "pasture": [
+        "pastures"
+    ],
+    "pasture plant": [
+        "pasture plants"
+    ],
+    "pea": [
+        "peas"
+    ],
+    "peanut": [
+        "peanuts"
+    ],
+    "pecan": [
+        "pecans"
+    ],
+    "pineapple": [
+        "pineapples"
+    ],
+    "pistachio": [
+        "pistachios"
+    ],
+    "potatoe": [
+        "potatoes"
+    ],
+    "pumpkin": [
+        "pumpkins"
+    ],
     "rice field": [
         "rice fields"
     ],
     "rice paddy": [
         "rice paddies"
+    ],
+    "road": [
+        "roads"
+    ],
+    "root": [
+        "roots"
+    ],
+    "root bulb": [
+        "root bulbs"
+    ],
+    "savannah": [
+        "savanna"
+    ],
+    "savannah with shrub": [
+        "savanna with shrubs"
+    ],
+    "savannah with tree": [
+        "savanna with tree",
+        "savanna with trees"
+    ],
+    "scallion": [
+        "scallions"
     ],
     "seasonal crop": [
         "seasonal metrics cropped",
@@ -114,30 +289,85 @@
         "seasonal crops",
         "season cropping"
     ],
+    "shallot": [
+        "shallots"
+    ],
+    "shrub": [
+        "shrubs"
+    ],
     "shrub land": [
         "land shrubs",
         "lands lowlands grasslands shrub",
+        "shrublands",
         "land to shrub",
         "land and shrubs",
         "shrub lands",
         "land use maps shrub",
         "lands with shrub",
+        "shrubland",
         "shrubs per land"
+    ],
+    "soy": [
+        "soybeans",
+        "soya beans",
+        "soya bean",
+        "soybean"
+    ],
+    "stem vegetable": [
+        "stem vegetables"
+    ],
+    "sweet potato": [
+        "sweet potatoes"
+    ],
+    "textile crop": [
+        "textile crops"
     ],
     "tiger bush": [
         "tiger bushes"
+    ],
+    "tomato": [
+        "tomatoes"
+    ],
+    "tree": [
+        "trees"
+    ],
+    "tuber": [
+        "tubers"
     ],
     "tuber crop": [
         "tuber crops",
         "crops 26 5 tubers"
     ],
+    "tuberous vegetable": [
+        "tuberous vegetables"
+    ],
+    "turnip": [
+        "turnips"
+    ],
+    "vegetable": [
+        "vegetables"
+    ],
     "water body": [
-        "bodies and water",
         "water bodies",
+        "water recycling body",
         "bodies watb permanent water",
-        "water recycling body"
+        "bodies and water"
     ],
     "water melons": [
-        "water melon"
+        "water melon",
+        "watermelons",
+        "watermelon"
+    ],
+    "wetland": [
+        "wetlands"
+    ],
+    "yam": [
+        "yams"
+    ],
+    "yearly crop": [
+        "yearly crops"
+    ],
+    "young fallow": [
+        "young fallows"
     ]
 }
