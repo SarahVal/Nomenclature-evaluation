@@ -20,8 +20,8 @@ def categorize_words():
     available_words = []
 
     # Create checkboxes for each word
-    st.subheader("Validation des synonymes pour les mots-clés source suivants:")
-
+    st.subheader("Validation de l'expansion sémantique pour les mots-clés source suivants:")
+    st.markdown("A partir de la liste déroulante, sélectionner les variants versions au pluriel, synonymes) valides.", unsafe_allow_html=True)
     # Create a multi-select for each category
     for cat in categories:
          st.markdown(f"<ul><li><h4><b>{cat}</b></h4>", unsafe_allow_html=True)
@@ -38,7 +38,7 @@ def categorize_words():
         
          # Allow user to modify the preselected words
          selected_words_2 = st.text_area(
-            f"Ajouter des synonymes pour: {cat} (séparez-les par des virgules)",
+            f"Si nécessaire, ajouter des variants supplémentaires manuellement : ",
             #value=", ",
             key=f"add_{cat}"
          )
