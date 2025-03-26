@@ -30,24 +30,29 @@
     "citrus fruit": [
         "citrus fruits"
     ],
-    "evergreen forests": [
+    "evergreen forest": [
+        "evergreen forests",
         "forests mainly evergreen",
         "evergreen the forest",
         "forest and evergreen",
-        "evergreen forest",
         "forest evergreen"
     ],
     "evergreen mixed forest": [
         "evergreen mixed forests"
     ],
+    "fiber crop": [
+        "fiber crops"
+    ],
     "fiber plant": [
         "fiber plants"
     ],
-    "fodder crops": [
+    "fodder crop": [
+        "fodder crops",
         "crop residues as fodder"
     ],
-    "forage crops": [
-        "crop forest and forage"
+    "forage crop": [
+        "crop forest and forage",
+        "forage crops"
     ],
     "fruit bearing vegetable": [
         "fruit bearing vegetables"
@@ -67,6 +72,9 @@
         "vegetative areas herbaceous",
         "vegetative area savanna herbaceous",
         "vegetation composition herbaceous"
+    ],
+    "historical land of forest": [
+        "historical land of forests"
     ],
     "irrigated rice": [
         "rice reduced irrigation",
@@ -106,12 +114,16 @@
     "niger seed": [
         "niger seeds"
     ],
-    "oil crops": [
+    "oil crop": [
         "crops bananas and oil",
         "crops oil",
         "crops cocoa coffee oil",
         "crops such as oil",
-        "oil palm cropping"
+        "oil palm cropping",
+        "oil crops"
+    ],
+    "oil plant": [
+        "oil plants"
     ],
     "oilseed crop": [
         "oilseed crops"
@@ -209,10 +221,10 @@
         "bodies watb permanent water",
         "bodies and water"
     ],
-    "water melons": [
-        "water melon",
-        "watermelons",
-        "watermelon"
+    "water melon": [
+        "watermelon",
+        "water melons",
+        "watermelons"
     ],
     "yearly crop": [
         "yearly crops"
