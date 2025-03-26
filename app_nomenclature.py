@@ -25,29 +25,27 @@ def categorize_words():
     # Create a multi-select for each category
     for cat in categories:
          st.markdown(f"<h4><b>Mot-clés source: {cat}</b></h4>", unsafe_allow_html=True)
-
-        selected_words = st.multiselect(
+         selected_words = st.multiselect(
             "",
             preselected_words[cat],
             default=[],
-            key=cat
-        )
-        categorized[cat] = selected_words
+            key=cat)
+         categorized[cat] = selected_words
 
         # Find words that were removed from the category
-        removed_from_category = [word for word in preselected_words[cat] if word not in selected_words]
-        available_words.extend(removed_from_category)
+         removed_from_category = [word for word in preselected_words[cat] if word not in selected_words]
+         available_words.extend(removed_from_category)
         
          # Allow user to modify the preselected words
-        selected_words_2 = st.text_area(
+         selected_words_2 = st.text_area(
             f"Ajouter des synonymes pour: {cat} (séparez-les par des virgules)",
             #value=", ",
             key=f"add_{cat}"
-        )
+         )
         
         # Split the input by commas to get the words
-        manual_terms = [word.strip() for word in selected_words_2.split(",") if len(word) > 1]
-        categorized[cat].extend(manual_terms)
+         manual_terms = [word.strip() for word in selected_words_2.split(",") if len(word) > 1]
+         categorized[cat].extend(manual_terms)
 
     # Remove duplicates from available words
     available_words = list(set(available_words))
