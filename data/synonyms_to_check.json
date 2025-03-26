@@ -9,20 +9,11 @@
         "crops annual",
         "crops and annual"
     ],
-    "artichoke": [
-        "artichokes"
-    ],
-    "aubergine": [
-        "aubergines"
-    ],
     "bare soil": [
         "bare exposed soil",
         "bare land soil",
         "bare soils",
         "soil is bare"
-    ],
-    "bean": [
-        "beans"
     ],
     "build-up surface": [
         "build-up surfaces"
@@ -36,20 +27,8 @@
         "area was burnt",
         "burned areas"
     ],
-    "cabbage": [
-        "cabbages"
-    ],
-    "cauliflower": [
-        "cauliflowers"
-    ],
-    "cereal": [
-        "cereals"
-    ],
     "citrus fruit": [
         "citrus fruits"
-    ],
-    "city": [
-        "cities"
     ],
     "evergreen forests": [
         "forests mainly evergreen",
@@ -61,9 +40,6 @@
     "evergreen mixed forest": [
         "evergreen mixed forests"
     ],
-    "fallow": [
-        "fallows"
-    ],
     "fiber plant": [
         "fiber plants"
     ],
@@ -73,12 +49,6 @@
     "forage crops": [
         "crop forest and forage"
     ],
-    "forest": [
-        "forests"
-    ],
-    "fruit": [
-        "fruits"
-    ],
     "fruit bearing vegetable": [
         "fruit bearing vegetables"
     ],
@@ -87,21 +57,6 @@
         "crops mangos citrus fruits",
         "crops mangoes citrus fruits",
         "fruit crops"
-    ],
-    "gourd": [
-        "gourds"
-    ],
-    "grain": [
-        "grains"
-    ],
-    "grass": [
-        "grasses"
-    ],
-    "grassland": [
-        "grasslands"
-    ],
-    "groundnut": [
-        "groundnuts"
     ],
     "herbaceous savannah": [
         "herbaceous savanna"
@@ -123,12 +78,6 @@
         "vegetation as leaves",
         "leafy vegetables"
     ],
-    "leek": [
-        "leeks"
-    ],
-    "legume": [
-        "legumes"
-    ],
     "leguminous crop": [
         "leguminous crops",
         "leguminous cover crops"
@@ -136,17 +85,8 @@
     "ligneous crop": [
         "ligneous crops"
     ],
-    "mango": [
-        "mangoes"
-    ],
     "market garden": [
         "market gardens"
-    ],
-    "meadow": [
-        "meadows"
-    ],
-    "millet": [
-        "millets"
     ],
     "mineral soil": [
         "soils and mineral",
@@ -163,20 +103,8 @@
         "mixed with tree",
         "mix of tree"
     ],
-    "monkeynut": [
-        "monkeynuts"
-    ],
-    "muskmelon": [
-        "muskmelons"
-    ],
     "niger seed": [
         "niger seeds"
-    ],
-    "nut": [
-        "nuts"
-    ],
-    "oat": [
-        "oats"
     ],
     "oil crops": [
         "crops bananas and oil",
@@ -185,14 +113,8 @@
         "crops such as oil",
         "oil palm cropping"
     ],
-    "oilseed": [
-        "oilseeds"
-    ],
     "oilseed crop": [
         "oilseed crops"
-    ],
-    "onion": [
-        "onions"
     ],
     "orchard crop": [
         "orchard crops"
@@ -220,35 +142,8 @@
     "paddy field": [
         "paddy fields"
     ],
-    "papaya": [
-        "papayas"
-    ],
-    "pasture": [
-        "pastures"
-    ],
     "pasture plant": [
         "pasture plants"
-    ],
-    "pea": [
-        "peas"
-    ],
-    "peanut": [
-        "peanuts"
-    ],
-    "pecan": [
-        "pecans"
-    ],
-    "pineapple": [
-        "pineapples"
-    ],
-    "pistachio": [
-        "pistachios"
-    ],
-    "potatoe": [
-        "potatoes"
-    ],
-    "pumpkin": [
-        "pumpkins"
     ],
     "rice field": [
         "rice fields"
@@ -256,17 +151,8 @@
     "rice paddy": [
         "rice paddies"
     ],
-    "road": [
-        "roads"
-    ],
-    "root": [
-        "roots"
-    ],
     "root bulb": [
         "root bulbs"
-    ],
-    "savannah": [
-        "savanna"
     ],
     "savannah with shrub": [
         "savanna with shrubs"
@@ -274,9 +160,6 @@
     "savannah with tree": [
         "savanna with tree",
         "savanna with trees"
-    ],
-    "scallion": [
-        "scallions"
     ],
     "seasonal crop": [
         "seasonal metrics cropped",
@@ -288,12 +171,6 @@
         "season crops",
         "seasonal crops",
         "season cropping"
-    ],
-    "shallot": [
-        "shallots"
-    ],
-    "shrub": [
-        "shrubs"
     ],
     "shrub land": [
         "land shrubs",
@@ -307,12 +184,6 @@
         "shrubland",
         "shrubs per land"
     ],
-    "soy": [
-        "soybeans",
-        "soya beans",
-        "soya bean",
-        "soybean"
-    ],
     "stem vegetable": [
         "stem vegetables"
     ],
@@ -325,27 +196,12 @@
     "tiger bush": [
         "tiger bushes"
     ],
-    "tomato": [
-        "tomatoes"
-    ],
-    "tree": [
-        "trees"
-    ],
-    "tuber": [
-        "tubers"
-    ],
     "tuber crop": [
         "tuber crops",
         "crops 26 5 tubers"
     ],
     "tuberous vegetable": [
         "tuberous vegetables"
-    ],
-    "turnip": [
-        "turnips"
-    ],
-    "vegetable": [
-        "vegetables"
     ],
     "water body": [
         "water bodies",
@@ -357,12 +213,6 @@
         "water melon",
         "watermelons",
         "watermelon"
-    ],
-    "wetland": [
-        "wetlands"
-    ],
-    "yam": [
-        "yams"
     ],
     "yearly crop": [
         "yearly crops"
