@@ -24,9 +24,10 @@ def categorize_words():
 
     # Create a multi-select for each category
     for cat in categories:
-        # Allow user to modify the preselected words
+         st.markdown(f"<h4><b>Mot-clés source: {cat}</b></h4>", unsafe_allow_html=True)
+
         selected_words = st.multiselect(
-            f"Sélectionner/Désélectionner les synonymes pour: {cat}",
+            "",
             preselected_words[cat],
             default=[],
             key=cat
