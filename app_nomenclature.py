@@ -20,11 +20,11 @@ def categorize_words():
     available_words = []
 
     # Create checkboxes for each word
-    st.subheader("Validation des synonymes :")
+    st.subheader("Validation des synonymes pour les mots-clés source suivants:")
 
     # Create a multi-select for each category
     for cat in categories:
-         st.markdown(f"<h4><b>Mot-clés source: {cat}</b></h4>", unsafe_allow_html=True)
+         st.markdown(f"<h4><b>{cat}</b></h4>", unsafe_allow_html=True)
          selected_words = st.multiselect(
             "",
             preselected_words[cat],
